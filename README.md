@@ -1,4 +1,4 @@
-# Project-Visually-Aware-Fashion-Recommendation-Systems
+# Project-Visually Aware Fashion Recommendation Systems
 ### Course: DSC 210: Numerical Linear Algebra for Data Science
 
 ### Instructor: Dr. Tsui-wei Weng
