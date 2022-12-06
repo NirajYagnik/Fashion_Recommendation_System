@@ -20,7 +20,6 @@
   - requests
   - pytz
 
-* Open Latent_Semantic_Analysis.ipynb and run all the cells of the notebook.
 
 #### Results:
 
