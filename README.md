@@ -3,6 +3,12 @@
 
 ### Instructor: Dr. Tsui-wei Weng
 
+### Team Members:
+Atharva Kshirsagar - A59019697
+Devam Dave - A59018455
+Niraj Yagnik - A59018067
+Kartikay Anand - A59020229
+
 #### Instructions:
 * Ensure that the following libraries are installed in python 3 environment:
   - scikit-learn
