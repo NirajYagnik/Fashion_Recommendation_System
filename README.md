@@ -39,6 +39,7 @@
   
 
 * **SVD vs SOTA**
+ <p align="center">
  <img width="33%" alt="Screen Shot 2022-04-15 at 9 19 35 AM" src="https://user-images.githubusercontent.com/34372501/206057894-26bbd584-f995-4636-8c29-44dbe45f0744.png">
 
 
