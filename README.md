@@ -47,7 +47,6 @@ Part_2_SOTA requires GPU support  for acceleration.
 
 
 <p align="center">
-<img width="50%" alt="Screen Shot 2022-04-15 at 9 19 11 AM" src="https://user-images.githubusercontent.com/34372501/206057489-a6a71d1b-4ff2-4f61-b0e5-8eacf024f92e.png">
  <img width="50%" alt="Screen Shot 2022-04-15 at 9 20 03 AM" src="https://user-images.githubusercontent.com/34372501/206057616-d82f5b3e-d8a1-4fa6-8ad2-5a25865a5786.png">
  <img width="50%" src="https://user-images.githubusercontent.com/34372501/206707655-0c18f138-437a-499a-ad5a-f63ea7f3b8dc.png">
 
