@@ -51,7 +51,7 @@ Part_2_SOTA requires GPU support  for acceleration.
  <img width="50%" alt="Screen Shot 2022-04-15 at 9 20 03 AM" src="https://user-images.githubusercontent.com/34372501/206057616-d82f5b3e-d8a1-4fa6-8ad2-5a25865a5786.png">
  <img width="50%" src="https://user-images.githubusercontent.com/34372501/206707655-0c18f138-437a-499a-ad5a-f63ea7f3b8dc.png">
 
-  
+ We were able to improve the performance after the presenation and these are out final reproducable results!
 
 * **SVD vs SOTA**
  <p align="center">
