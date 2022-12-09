@@ -32,7 +32,7 @@ Kartikay Anand - A59020229
   
 The experimentations were conducted on Google Colab Pro and the notebook execution requires around 10-16 GB of free space.
 
-Part2_SOTA requires GPU support  for acceleration.
+Part_2_SOTA requires GPU support  for acceleration.
 
 
 #### Results:
